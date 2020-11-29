@@ -41,4 +41,4 @@ client.on('message', message =>{
     }
 });
 
-client.login('NzgyMzQ1OTc4MzY3MzExODcy.X8K2eA.DDTF5M4EMivu9lQHq4adw9XkeNM')
+client.login('tokenhere')
